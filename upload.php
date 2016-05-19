@@ -63,7 +63,7 @@
 		</ul>
 			
 
-        <div class="w3-card-4 w3-margin" style="margin-top:140px">
+        <div class="w3-card-4 w3-margin" style="margin-top:160px">
 
             <div class="w3-container w3-indigo">
 				<center><h2>Форма для завантаження</h2></center>
