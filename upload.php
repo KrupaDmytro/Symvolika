@@ -141,7 +141,7 @@
         </div>
 
 		<footer class="w3-container w3-center w3-theme">
-		<h5>© 2016 | Тихонов Валентин</h5>
+		<h5>© 2016 | Крупа Дмитро</h5>
 		</footer>
     </body>
 </html>
