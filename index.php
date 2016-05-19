@@ -2,9 +2,9 @@
 header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json; charset=UTF-8");
 
-$outp = '[ {"name":"Compass","icon":"compass.jpg", "desc":"The compact compass for climbers.", "price":2},'.
-			'{"name":"Hunting backpack","icon":"hunting.jpg", "desc":"This is a nice backpack for hunters.", "price":30},'.
-			'{"name":"Flag","icon":"flag.jpg", "desc":"Ukrainian flag.", "price":4},'.
-			'{"name":"Butterfly", "icon":"butterflyFlag.jpg", "desc":"Nice ukrainian flag.", "price":1.1} ]';
+$outp = '[ {"name":"Компас US-Typ, металевий корпус","icon":"compass.jpg", "desc":"Виробник:: Max Fuchs", "price":145},'.
+			'{"name":"Рюкзак мисливський: РО-1т","icon":"hunting.jpg", "desc":"Виробник: ARMPOLIS (Україна)", "price":1269},'.
+			'{"name":"Прапор Украіна з бахромою і тризубом","icon":"flag.jpg", "desc":"Виробник: Україна", "price":112.88},'.
+			'{"name":"Значок Українська символіка - Метелик с/ж з тризубом", "icon":"butterflyFlag.jpg", "desc":"Виробник: Україна", "price":30} ]';
 echo($outp);
 ?>
