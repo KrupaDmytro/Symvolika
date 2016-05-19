@@ -60,15 +60,13 @@
 			<div class="w3-light-aqua w3-container w3-padding-32 w3-center">
 			<h2 class="w3-jumbo">Завантаження файлу</h2>
 			</div>
-		<center>
+
 		<ul class="w3-navbar w3-large w3-center w3-theme">
-		<center>
 			<li><a href="index.html">Головна</a></li>
 			<li><a href="store.html">Магазин</a></li>
 			<li><a href="about.html">Про</a></li>
-		</center>
 		</ul>
-		</center>
+		
 		<!-- The Modal Dialog for authorization -->
         <form id="logindialog" class="w3-modal">
             <div class="w3-modal-content w3-animate-top w3-card-8">

@@ -7,7 +7,35 @@
 	<link rel="stylesheet" href="lib/w3-theme-blue.css"></link>
 	<link rel="stylesheet" href="validation.css"></link>
 	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
-	
+	<style>
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #0066ff;
+	}
+
+	li {
+		float: left;
+	}
+
+	li a {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	li a:hover:not(.active) {
+		background-color: blue;
+	}
+
+	.active {
+		background-color: #4CAF50;
+	}
+	</style>
 	<body>
 		<header class="w3-container w3-card-4 w3-orange">
 		    <title>Символіка</title>
@@ -22,11 +50,11 @@
 					<p id="log"><p>
 				</center>
 		</header>
-
-		<ul class="w3-navbar w3-large w3-center w3-theme">
-			<li><a href="index.html">Головна</a></li>
-			<li><a href="store.html">Магазин</a></li>
-			<li><a href="about.html">Про</a></li>
+		
+		<ul class="w3-navbar w3-large">
+		  <li><a href="index.html">Головна</a></li>
+		  <li><a href="store.html">Магазин</a></li>
+		  <li style="float:right"><a class="active" href="about.html">Про нас</a></li>
 		</ul>
 
 		<div class="w3-container" id="itemcontainer">
