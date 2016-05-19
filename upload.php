@@ -47,12 +47,12 @@
 	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
     <body>
-        <header class="w3-container w3-card-4 w3-theme w3-top">
+        <header class="w3-container w3-card-4 w3-theme">
 		    <title>Символіка</title>
 			<h1>Магазин військової атрибутики - Символіка</h1>
         </header>
 			
-			<div class="w3-light-aqua w3-container w3-padding-32 w3-center" style="margin-top:70px">
+			<div class="w3-light-aqua w3-container w3-padding-32 w3-center">
 			<h2 class="w3-jumbo">Завантаження файлу</h2>
 			</div>
 
