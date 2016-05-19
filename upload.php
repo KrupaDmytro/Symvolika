@@ -58,7 +58,7 @@
 
 		<ul class="w3-navbar w3-large w3-center w3-theme">
 			<li><a href="index.html">Головна</a></li>
-			<li><a href="store.html">Магазин</a></li>
+			<li><a href="store.html">Доставка і оплата</a></li>
 			<li><a href="about.html">Про</a></li>
 		</ul>
 			
