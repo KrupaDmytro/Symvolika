@@ -61,11 +61,11 @@
 			<h2 class="w3-jumbo">Завантаження файлу</h2>
 			</div>
 
-			<div class="w3-topnav w3-large w3-center w3-theme">
-			  <a href="index.html">Головна</a>
-			  <a href="store.html">Магазин</a>
-			  <a href="index.html">Контакти</a>
-			</div>
+		<ul class="w3-navbar w3-large w3-center w3-theme">
+			<li><a href="index.html">Головна</a></li>
+			<li><a href="store.html">Магазин</a></li>
+			<li><a href="about.html">Про</a></li>
+		</ul>
 		
 		<!-- The Modal Dialog for authorization -->
         <form id="logindialog" class="w3-modal">
