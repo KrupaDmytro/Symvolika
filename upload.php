@@ -52,7 +52,7 @@
 			<h1>Магазин військової атрибутики - Символіка</h1>
         </header>
 			
-			<div class="w3-light-aqua w3-container w3-padding-32 w3-center">
+			<div class="w3-light-aqua w3-container w3-padding-32 w3-center" style="margin-top:140px">
 			<h2 class="w3-jumbo">Завантаження файлу</h2>
 			</div>
 
@@ -63,7 +63,7 @@
 		</ul>
 			
 
-        <div class="w3-card-4 w3-margin" style="margin-top:160px">
+        <div class="w3-card-4 w3-margin">
 
             <div class="w3-container w3-indigo">
 				<center><h2>Форма для завантаження</h2></center>
