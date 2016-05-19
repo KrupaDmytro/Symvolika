@@ -47,7 +47,7 @@
 	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
     <body>
-        <header class="w3-container w3-card-4 w3-theme">
+        <header class="w3-container w3-card-4 w3-theme w3-top">
 		    <title>Символіка</title>
 			<h1>Магазин військової атрибутики - Символіка</h1>
         </header>
@@ -80,7 +80,7 @@
 
         </div>
 
-		<footer class="w3-container w3-center w3-theme">
+		<footer class="w3-container w3-center w3-theme w3-bottom">
 		<h5>© 2016 | Крупа Дмитро</h5>
 		</footer>
     </body>
